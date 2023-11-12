@@ -1,0 +1,11 @@
+.container {
+    padding: 50px 0;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.typewriter {
+    font-family: monospace;
+    line-height: 1.5em;
+    font-size: 2em;
+    color: blueviolet;
+}
